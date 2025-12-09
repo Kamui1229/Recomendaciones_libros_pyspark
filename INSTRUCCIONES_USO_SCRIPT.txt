@@ -1,0 +1,15 @@
+HOLA PROFESOR!!!!
+PARA PODER USAR EL SCRIPT, DEBE EJECUTARLO COMO:
+python3 recomendaciones.py [acción (recomendar, palabras más importantes)] Nombre_Libro  N(el numero de recomendaciones o palabras que quiere que impr0ima):
+
+EJEMPLO DE RECOMENDACIONES:
+python3 recomendaciones.py recomendar "The Great Gatsby" 3
+
+EJEMPLO DE PALABRAS IMPORTANTES:
+python3 recomendaciones.py palabras "The Great Gatsby" 3
+
+Para que el script funcione debe estar en la misma carpeta que los archivos csv de matriz_similitude_libros.csv y datos_tfidf.csv
+
+si quiere correr el notebook, es el de "Procesamiento de libros.ipyn y debe estar en la misma carpeta que la carpeta books/
+
+Los demas notebooks son pruebas que hicimos de entrada, puede ignorarlos.
